@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://malitkh.github.io/sitemap/sitemap.txt
